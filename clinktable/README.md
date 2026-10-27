@@ -1,4 +1,4 @@
-# ALongTable.glomere.tech prototype
+# clinktable.glomere.tech prototype
 
 Bilingual restaurant-table booking prototype with interest onboarding, recommended tables, prepaid menu customization, and host-created gatherings.
 

@@ -1,4 +1,4 @@
-# ALongPartner.glomere.tech prototype
+# clinkpartner.glomere.tech prototype
 
 Restaurant partner console for managing AI-recommended off-peak prix fixe offers and viewing prepaid C-end bookings.
 
