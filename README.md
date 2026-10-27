@@ -1,8 +1,8 @@
-# ClinkTable prototypes
+# ClinkTable prototype
 
-Static prototypes for both sides of the ClinkTable booking experience:
+A single ClinkTable site with two role-specific experiences:
 
-- `clinktable/` — guest theme discovery, populated tables, prepaid menu selection, seat selection, checkout, and booking confirmation. Intended address: `clinktable.glomere.tech`.
-- `clinkpartner/` — restaurant partner dashboard for off-peak recommendations, prix fixe menus, auto-adjustment controls, and sample C-end orders. Intended address: `clinkpartner.glomere.tech`.
+- `/` — guest theme discovery, populated tables, prepaid course and menu selection, seats, checkout, and booking confirmation.
+- `/partner/` — restaurant partner dashboard for off-peak recommendations, prix fixe menus, auto-adjustments, and prepaid C-end orders.
 
-Open each folder's `index.html` to view its prototype.
+The intended public address is `clinktable.glomere.tech`.
